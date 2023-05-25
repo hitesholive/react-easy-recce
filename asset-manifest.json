@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-easy-recce/static/css/main.073c9b0a.css",
+    "main.js": "/react-easy-recce/static/js/main.64ae9071.js",
+    "static/js/787.d432c758.chunk.js": "/react-easy-recce/static/js/787.d432c758.chunk.js",
+    "index.html": "/react-easy-recce/index.html",
+    "main.073c9b0a.css.map": "/react-easy-recce/static/css/main.073c9b0a.css.map",
+    "main.64ae9071.js.map": "/react-easy-recce/static/js/main.64ae9071.js.map",
+    "787.d432c758.chunk.js.map": "/react-easy-recce/static/js/787.d432c758.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.64ae9071.js"
+  ]
+}
